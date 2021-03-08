@@ -2,13 +2,13 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD30_AUWOFGdZPBl_-evnJOi5VV_MVEIeg",
+  apiKey: "Key_would_go_here",
   authDomain: "challenge-59512.firebaseapp.com",
-  projectId: "challenge-59512",
+  projectId: "challenge",
   storageBucket: "challenge-59512.appspot.com",
-  messagingSenderId: "865389212845",
-  appId: "1:865389212845:web:bbfa7c59c735ee42c58224",
-  measurementId: "G-GEH496FC7V",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
