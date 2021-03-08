@@ -1,10 +1,7 @@
 # Amazon Clone E-Commerence Website
-This website was developed witha React framework and is meant to replicate the experience of shopping on Amazon. The backend is hosted on Google's Firebase using Firestore for the database. The following link showcases the latest and most stable release that is best viewed on a computer: https://challenge-59512.web.app/
+This website was developed with a React framework and is meant to replicate the experience of shopping on Amazon. The back-end is hosted on Google's Firebase using Firestore for the database. The following link showcases the latest and most stable release that is best viewed on a computer: https://challenge-59512.web.app/
 
-The most recent release still needs to be updated in incorpate responsive web design for an improved apperance on moblie devices.
-
-
-
+The most recent release still needs to be updated in incorporate responsive web design for an improved appearance on mobile devices.
 
 # Getting Started with Create React App
 
