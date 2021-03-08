@@ -1,0 +1,76 @@
+cd functions
+if you do any npm installs make sure you are inside functions folder
+
+TO DO: look how to use gitignore to hide the secret key in index.js
+errors with post
+see whats up with your dispatch in subtotal
+applications are due by 5pm
+
+
+
+//makes a fake firebase without actually deploying it
+firebase emulators:start
+
+functions
+	index.js
+
+// // Create and Deploy Your First Cloud Functions
+// // https://firebase.google.com/docs/functions/write-firebase-functions
+//
+// exports.helloWorld = functions.https.onRequest((request, response) => {
+//   functions.logger.info("Hello logs!", {structuredData: true});
+//   response.send("Hello from Firebase!");
+// });
+
+
+npm i express
+
+
+
+npm i @stripe/react-stripe-js
+
+
+
+firebase init
+	Hosting
+	use exisiting project
+	amazon challenege
+	pulic dir: build
+	y
+
+npm run  build (re-run anytime you make any changes)
+firebase deploy
+
+test@Gmail.Com
+testing123
+
+<login/>
+
+
+
+{basket.map((item) => (
+          <CheckoutProduct
+            id={item.id}
+            title={item.title}
+            image={item.image}
+            price={item.price}
+            rating={item.rating}
+          />
+        ))}
+
+
+    <CheckoutProduct
+          id="1234"
+          title="TESTIO lorem20 I am the queen of the fruit. Bow before me"
+          image="https://thezebra.org/wp-content/uploads/2020/07/Training-Time-Aug2020-GR-with-ball-scaled.jpg"
+          price={999.99}
+          rating={5}
+        />
+
+        <CheckoutProduct
+          id="1234"
+          title="TESTIO I am the queen of the fruit. Bow before me"
+          image="https://thezebra.org/wp-content/uploads/2020/07/Training-Time-Aug2020-GR-with-ball-scaled.jpg"
+          price={999.99}
+          rating={5}
+        />
